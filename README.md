@@ -1,4 +1,4 @@
-# WirelessNBS Sound Control — Minecraft Java 1.21.1
+# SoundControl - Minecraft 1.21.1
 
 컴파일된 설치용 JAR은 [Releases](https://github.com/NoteBlockMR/pynbs-soundstopper-mod/releases)에서 받을 수 있습니다. `-sources.jar`나 GitHub의 Source code ZIP은 설치용이 아닙니다.
 
